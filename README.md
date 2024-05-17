@@ -15,7 +15,5 @@ O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pe
 
 https://drive.google.com/file/d/1l21ig2B9ZVj6QyiIsbsOG7rBKElWL-SL/view?usp=sharing
 
-[https://drive.google.com/drive/folders/1Y7-JckW1rpw2_smB6-8JbMjUyiVNm9zj?usp=drive_link]()
-
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
